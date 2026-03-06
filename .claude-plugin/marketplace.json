@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "realxp-lab-armory",
+  "version": "1.0.0",
+  "description": "Claude Code plugins for game development workflows by RealXP Lab",
+  "owner": { "name": "RealXP Lab", "email": "team@realxplab.com" },
+  "plugins": [
+    {
+      "name": "readability-review",
+      "source": "./claude-plugins/readability-review",
+      "version": "1.0.0",
+      "category": "code-quality"
+    }
+  ]
+}

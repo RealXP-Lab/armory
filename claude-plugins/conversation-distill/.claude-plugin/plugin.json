@@ -1,0 +1,14 @@
+{
+  "name": "conversation-distill",
+  "description": "Extracts decisions, process changes, resources, and troubleshooting from team conversations (Discord, GitHub, Notion) into structured markdown.",
+  "author": { "name": "Jack Guo", "email": "jack@realxplab.com" },
+  "repository": "https://github.com/realxp-lab/armory",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-management",
+    "conversations",
+    "discord",
+    "notion",
+    "github"
+  ]
+}

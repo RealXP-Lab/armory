@@ -10,6 +10,12 @@
       "source": "./claude-plugins/readability-review",
       "version": "1.0.0",
       "category": "code-quality"
+    },
+    {
+      "name": "conversation-distill",
+      "source": "./claude-plugins/conversation-distill",
+      "version": "1.0.0",
+      "category": "knowledge-management"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "com.realxplab.questjournalp3",
+  "version": "1.0.0",
+  "displayName": "Quest Journal P3",
+  "description": "Quest Journal package for part 3.",
+  "unity": "6000.3",
+  "unityRelease": "2f1",
+  "dependencies": {},
+  "keywords": [
+    "records"
+  ],
+  "author": {
+    "name": "Esteban Gaete Flores",
+    "email": "estebanagf@gmail.com",
+    "url": "https://theby.github,io"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "Simple setup",
+      "path": "Samples~/BasicExample"
+    }
+  ]
+}
